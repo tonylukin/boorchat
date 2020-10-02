@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response type="questions">
+    <question id="1">
+        <name>Вы интроверт или нет?</name>
+        <answers>
+            <answer id="1">Да</answer>
+            <answer id="2">Нет</answer>
+            <answer id="3">Наверно</answer>
+        </answers>
+    </question>
+    <question id="2">
+        <name>Вы программист или нет?</name>
+        <answers>
+            <answer id="4">Да</answer>
+            <answer id="5">Нет</answer>
+            <answer id="6">Наверно</answer>
+        </answers>
+    </question>
+</response>
